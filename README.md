@@ -42,3 +42,7 @@ Setelah anda mendapatkan token dari Vercel, buka GitHub, lalu masuk ke halaman `
 3. `VERCEL_PROJECT_ID` yang berisi variabel `projectId` yang dapat anda lihat di folder `./vercel` dan pada file `project.json` pada folder directory project anda.
 
 Jika anda sudah menyelesaikan tahap diatas, sekarang anda tinggal melakukan `push` repo anda dan script deployment akan langsung berjalan.
+
+
+### Link Deploy 
+https://tugas-4-gamma.vercel.app/
